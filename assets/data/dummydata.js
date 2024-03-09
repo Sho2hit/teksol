@@ -180,7 +180,7 @@ export const teamdata = [
   },
   {
     id: 2,
-    title: "Raju Chaurasia",
+    title: "Harshit",
     cover: "../images/t2.jpg",
     post: "FINANCE DIRECTOR",
   },
